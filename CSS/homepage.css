@@ -1,3 +1,20 @@
+.skills-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.skills-logo-img {
+    /*border-radius: 50%;*/
+    height: 100px;
+    width: 150px;
+    /*width: 100%;*/
+}
+.skills-cards {
+    height: 300px;
+    width: 200px;
+    margin-bottom: 5px;
+}
+
 body{
     background-color: mediumseagreen;
 }
