@@ -1,0 +1,11 @@
+.education-logos {
+    /*border-radius: 50%;*/
+    height: 100px;
+    width: 150px;
+    /*width: 100%;*/
+}
+
+.education-div {
+    display: flex;
+    justify-content: space-between;
+}
